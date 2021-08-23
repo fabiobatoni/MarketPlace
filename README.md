@@ -23,7 +23,7 @@ Redux
 
 React-redux
 
-# Telas 
+# Aplicação 
 
 ![home](https://user-images.githubusercontent.com/57717982/130448330-36a52050-824c-4c5b-bd90-88fc51c41631.PNG)
 
