@@ -1,0 +1,41 @@
+.shop {
+    list-style: none;
+    padding: 7px;
+    margin-right: 20px;
+    border-radius: 5px;
+    border-bottom: 3px solid transparent;
+    transition: 0.5s;
+}
+
+.shop.active, .shop:hover {
+    cursor: pointer;
+    border-bottom: 3px solid rgb(var(--primary));
+    transition: 0.5s;
+    background-color: #f6f5f5;
+}
+
+.shop img{
+    width: 80px;
+    border-radius: 5px;
+    vertical-align: baseline;
+}
+
+.shop b{
+    margin-bottom: 0;
+}
+
+.shop-infos span{
+    vertical-align: middle;
+    color: #626264; 
+}
+
+.shop-infos span.mdi-star{
+    color: #facd5d;
+}
+
+.shop-infos text{
+    font-size: 13px;
+    margin-right: 10px;
+    vertical-align: middle;
+    color: #626264;
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "nome": "Óticas Clara",
+    "logo": "https://scontent.fcpq15-1.fna.fbcdn.net/v/t1.6435-9/67401760_2752689958130412_2119495923112345600_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=Wdl-cMh2QH8AX910rPz&_nc_ht=scontent.fcpq15-1.fna&oh=2d4aaf094926fa08a3f8472bacbca95a&oe=609C7D37",
+    "categoria": "Roupas",
+    "destaque": 1,
+    "location": {
+      "lat": -22.703265,
+      "lng": -46.7698957
+    },
+    "produtos": [
+      {
+        "nome": "METEOR CLASSIC",
+        "capa": "https://images.ray-ban.com/is/image/RayBan/8056597140560__002.png?impolicy=RB_Product&width=570&bgc=%23f2f2f2",
+        "preco": 664.00,
+        "avaliacoes": 4.5
+      },
+      {
+        "nome": "JUSTIN CLÁSSICO",
+        "capa": "https://images.ray-ban.com/is/image/RayBan/7891318446528__002.png?impolicy=RB_Product&width=570&bgc=%23f2f2f2",
+        "preco": 370.50,
+        "avaliacoes": 4.5
+      },
